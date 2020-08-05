@@ -1,3 +1,10 @@
+![Issues](https://img.shields.io/github/issues/dennis2018/Mongo-DB-and-react-dukani-frontend-UI-design?style=for-the-badge)
+![forks](https://img.shields.io/github/forks/dennis2018/Mongo-DB-and-react-dukani-frontend-UI-design?style=for-the-badge)
+![licence](https://img.shields.io/github/license/dennis2018/Mongo-DB-and-react-dukani-frontend-UI-design?style=for-the-badge)
+![stars](https://img.shields.io/github/stars/dennis2018/Mongo-DB-and-react-dukani-frontend-UI-design?style=for-the-badge)
+
+
+
 # Mongo-DB-and-react-dukani-frontend-UI-design
 Mongo DB and react App UI design
 
