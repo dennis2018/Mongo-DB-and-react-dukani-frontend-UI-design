@@ -8,7 +8,7 @@
 # Mongo-DB-and-react-dukani-frontend-UI-design
 
 Mongo DB and react App UI design
-
+![REACT](https://github.com/dennis2018/Mongo-DB-and-react-dukani-frontend-UI-design/blob/master/REACT.png)
 ## Run Locally
 
 ### 1. Clone repo
