@@ -53,3 +53,24 @@ $ npm start
 - Click create product and enter product info
 
 Let me know if you have any questions. [Email devopsdennis](mailto:dennismburu10@gmail.com)
+
+### React Homepage
+![homepage](https://github.com/dennis2018/Mongo-DB-and-react-dukani-frontend-UI-design/blob/master/Element_homepage.PNG)
+
+### React dukani product categories
+![categories](https://github.com/dennis2018/Mongo-DB-and-react-dukani-frontend-UI-design/blob/master/Element_Categories.PNG)
+
+### React dukani Cart checkout and add to cart product
+
+![cart](https://github.com/dennis2018/Mongo-DB-and-react-dukani-frontend-UI-design/blob/master/Element_Add_to_cart.PNG)
+
+![cart checkout](https://github.com/dennis2018/Mongo-DB-and-react-dukani-frontend-UI-design/blob/master/Element_cart_checkout.PNG)
+
+### React Products and Add product
+![product](https://github.com/dennis2018/Mongo-DB-and-react-dukani-frontend-UI-design/blob/master/Element_Product_List.PNG)
+
+![add product](https://github.com/dennis2018/Mongo-DB-and-react-dukani-frontend-UI-design/blob/master/Element_Create_New_Product.PNG)
+
+### React Admin
+![admin](https://github.com/dennis2018/Mongo-DB-and-react-dukani-frontend-UI-design/blob/master/Element_admin_account.PNG)
+
