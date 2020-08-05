@@ -6,7 +6,7 @@ Mongo DB and react App UI design
 ### 1. Clone repo
 
 ```
-$ git clone 
+$ git clone https://github.com/dennis2018/Mongo-DB-and-react-dukani-frontend-UI-design.git
 $ cd Mongo DB and react App UI design
 ```
 
