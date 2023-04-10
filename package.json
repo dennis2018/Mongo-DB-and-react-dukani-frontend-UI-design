@@ -4,7 +4,7 @@
   "description": "Demo : https://amazonaapp.herokuapp.com/",
   "main": "index.js",
   "dependencies": {
-    "aws-sdk": "^2.814.0",
+    "aws-sdk": "^2.1354.0",
     "body-parser": "^1.20.1",
     "dotenv": "^8.2.0",
     "eslint-plugin-react": "^7.19.0",
