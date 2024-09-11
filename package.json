@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "aws-sdk": "^2.1354.0",
-    "body-parser": "^1.20.1",
+    "body-parser": "^1.20.3",
     "dotenv": "^8.2.0",
     "eslint-plugin-react": "^7.19.0",
     "express": "^4.20.0",
